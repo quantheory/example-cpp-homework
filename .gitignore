@@ -1,3 +1,7 @@
+# products of this code
+runtests
+libsquare.so
+
 # Compiled Object files
 *.slo
 *.lo
